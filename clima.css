@@ -16,6 +16,7 @@ body {
   justify-content: center;
   align-content: center;
   align-items: center;
+  background-image: url("https://source.unsplash.com/1600x900/?landscape");
 }
 
 .container {

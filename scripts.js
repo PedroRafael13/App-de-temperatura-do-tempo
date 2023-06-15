@@ -1,5 +1,3 @@
-
-
 const key = "6d2b95d29b885163f4891ab9d63b06e6"
 
 function colocarDadosNaTela(dados){
